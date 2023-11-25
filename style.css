@@ -1,0 +1,18 @@
+body{
+    background-color: yellow;
+}
+
+#score{
+    font-size: medium;
+    margin-left: 15px;
+}
+
+#timer{
+    font-size: medium;
+    float: right;
+    margin-right: 15px;
+}
+
+#drawn{
+    color: black;
+}
